@@ -13,7 +13,6 @@ public class FinallyThrowThrowsDemo {
             //this message will definitely execute
             System.out.println("Final Message");
         }
-
     }
 
     public static void main(String[] args) throws Exception

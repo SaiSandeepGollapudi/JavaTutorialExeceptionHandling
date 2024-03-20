@@ -19,6 +19,5 @@ public class ExceptionDemo {
         catch(ArithmeticException e){
             System.out.println("We should not divide with 0");
         }
-
     }
 }
