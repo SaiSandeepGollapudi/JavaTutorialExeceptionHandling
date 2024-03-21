@@ -5,7 +5,6 @@ public class FinallyThrowThrowsDemo {
     {
         try
         {
-
             throw new Exception();
         }
         finally
